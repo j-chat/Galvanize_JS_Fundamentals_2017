@@ -17,3 +17,4 @@ I have organized my notes into multiple jupyter notebooks.
 |   Part | Concepts  |  
 |---|---|
 |  Part 1 |  comments, variables, template strings, booleans, calculatons, if/else statements, for loop, while loop, switch statements |   
+|  Part 2 |  functions, parameters, strings, cases |   
