@@ -20,6 +20,7 @@ I have organized my notes into multiple jupyter notebooks.
 |  Part 2 |  functions, parameters, strings, cases |   
 |  Part 3 |  string manipulation, camelCase, string concatenation, template strings |   
 |  Part 4 |  arrays, objects, iterate over array/object, traverse over array/object |   
+|  Part 5 |  exercises in initial value, iteration, accumulation; JavaScript challenge question |  
 
 
 ## Online Interpreter 
