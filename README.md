@@ -24,5 +24,6 @@ I have organized my notes into multiple jupyter notebooks.
 |  Part 6 |  HTML challenges | 
 
 
-## Online Interpreter 
+## Online Interpreters 
 For testing some of these functions, you can use [Repl.it](https://repl.it/) and selecting JavaScript from the list of languages. There are other online interpreters, but this one was recommended to me during the course.
+For the some of the HTML and CSS challenges, I used [CodePen](https://codepen.io/) and [JSFiddle](https://jsfiddle.net/).
