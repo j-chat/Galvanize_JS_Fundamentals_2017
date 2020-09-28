@@ -22,6 +22,7 @@ I have organized my notes into multiple jupyter notebooks.
 |  Part 4 |  arrays, objects, iterate over array/object, traverse over array/object |   
 |  Part 5 |  exercises in initial value, iteration, accumulation; JavaScript challenge question |  
 |  Part 6 |  HTML challenges | 
+|  Part 7 |  CSS challenges | 
 
 
 ## Online Interpreters 
