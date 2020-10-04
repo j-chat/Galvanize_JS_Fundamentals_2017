@@ -23,6 +23,7 @@ I have organized my notes into multiple jupyter notebooks.
 |  Part 5 |  exercises in initial value, iteration, accumulation; JavaScript challenge question |  
 |  Part 6 |  HTML challenges | 
 |  Part 7 |  CSS challenges | 
+|  Part 8 |  short answers for jQuery, JSON AJAX, Postman, and Google API  | 
 
 
 ## Online Interpreters 
